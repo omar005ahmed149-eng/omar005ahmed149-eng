@@ -1,5 +1,19 @@
-# 💫 About Me:
-I'm Computer Science Student<br>That hopes to be a Software Engineer<br>I'm developing Mobile Apps With Flutter 
+## About Me
+
+👋 Hey, I'm Omar
+
+💻 Flutter Developer who enjoys turning ideas into real apps  
+🛠️ Working with Firebase, UI design, and app architecture  
+🚀 I like solving problems, fixing bugs, and improving performance  
+
+I’m constantly learning and building — not just to code, but to create things that actually work and matter.
+
+🎯 Currently focused on:
+- Improving my development skills
+- Building better UI/UX
+- Creating solid, real-world projects  
+
+⚡ Fun fact: Most of my learning comes from breaking things… then fixing them better
 
 
 ## 🌐 Socials:
