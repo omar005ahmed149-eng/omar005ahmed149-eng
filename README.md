@@ -13,9 +13,6 @@ I’m constantly learning and building — not just to code, but to create thing
 - Building better UI/UX
 - Creating solid, real-world projects  
 
-⚡ Fun fact: Most of my learning comes from breaking things… then fixing them better
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ahmed-689b38380) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar005ahmed149@gmail.com) 
 
